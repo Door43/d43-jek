@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jek:home|Door43 (jek)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jek|d43-jek repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jek/archive/master.zip|d43-jek.zip]]
+
+**Recent Changes**
+{{changes>ns = jek}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jek|Ethnologue data]]
+
